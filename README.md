@@ -1,8 +1,8 @@
-# 👋 Hey there! I’m Jessy J 🚀
+# 👋 Hey there! I'm Jessy J 🚀
 
 ### 🔥 Full-Stack Developer | Problem Solver | Tech Enthusiast
 
-I’m a full-stack developer with experience across Python, JavaScript, Node.js, HTML, CSS, PHP, and C++. I got started through YouTube tutorials, freeCodeCamp challenges, and LinkedIn courses, and I enjoy building practical, scalable applications.
+I'm a passionate full-stack developer with expertise in Python, JavaScript, Node.js, HTML, CSS, PHP, and C++. My journey into tech started with YouTube tutorials, FreeCodeCamp challenges, and LinkedIn certifications, and I've been coding my way into building scalable and efficient solutions ever since!
 
 ## 🛠️ Tech Stack
 
@@ -28,11 +28,11 @@ I’m a full-stack developer with experience across Python, JavaScript, Node.js,
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on a full-stack web application with AI-based recommendations, using Python and a Node.js backend.
-- 🌱 I’m learning system design, microservices, and cloud technologies including AWS, Docker, and Kubernetes.
-- 👯 I’m interested in collaborating on open-source projects involving backend development, AI, distributed systems, and APIs.
-- 🤔 I’m continuing to explore scalable system design and database performance.
-- 💬 Ask me about full-stack development, REST and GraphQL APIs, WebSockets, and backend performance.
+- 🔭 I’m currently working on developing a scalable full-stack web application that integrates AI-based recommendations using Python (TensorFlow/PyTorch) and a Node.js backend to enhance user experience.
+- 🌱 I’m currently learning advanced system design principles, microservices architecture, and cloud computing (AWS, Docker, Kubernetes) to build high-performance applications.
+- 👯 I’m looking to collaborate on open-source projects related to backend optimization, distributed systems, AI-driven applications, and API development.
+- 🤔 I’m looking for help with mastering high-load system architectures, blockchain technology, and optimizing SQL/NoSQL databases for performance and scalability.
+- 💬 Ask me about anything related to full-stack development, building RESTful & GraphQL APIs, real-time data streaming with WebSockets, and optimizing backend performance.
 
 ## ⚙️ My code works
 
@@ -51,8 +51,8 @@ She/Her
 
 ## ⚡ Fun fact
 
-When I’m not coding, I’m reverse-engineering software, exploring AI models, or diving into algorithmic problem-solving.
+When I’m not coding, I’m reverse-engineering software, exploring AI models, or diving deep into algorithmic problem-solving!
 
 ---
 
-💡 Let’s connect, innovate, and build something extraordinary! 🚀✨
+💡 Let's connect, innovate, and build something extraordinary! 🚀✨
