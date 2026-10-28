@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Jessy J 🚀
+# 👋 Hey there! I'm Jaccie Jay🚀
 
 ### 🔥 Full-Stack Developer | Problem Solver | Tech Enthusiast
 
